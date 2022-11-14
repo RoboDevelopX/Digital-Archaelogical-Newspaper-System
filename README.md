@@ -1,1 +1,1 @@
-# Digital-Archaelogical-Newspaper-System
+*Digital Archaeological Newspaper System 
